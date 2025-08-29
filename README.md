@@ -20,4 +20,4 @@ This project is ideal for demonstrating how Java can be used to build simple, fu
 
 - **Java** – Core Java used for application logic  
 - **Swing / JavaFX** – For building the graphical user interface (based on your version)  
-- **JDBC** – For handling data operations internally  
+- **JDBC** – For handling data operations internally
